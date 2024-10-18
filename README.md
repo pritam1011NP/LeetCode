@@ -6,7 +6,7 @@ Hello! I'm **Pritam Majumder**, an aspiring Data Scientist currently pursuing my
 
 I am committed to solving **coding problems daily** on **LeetCode**. My goal is to improve my problem-solving skills, deepen my understanding of data structures and algorithms, and get ready for technical interviews.
 
-You can find my LeetCode profile here: [LeetCode Profile](#) (Update with your actual profile link)
+You can find my LeetCode profile here: [https://leetcode.com/sJFUDW8f16/](#) 
 
 ### My Approach to Solving Problems
 - **Focus on Fundamentals**: Each problem is tackled with a clear understanding of the basic concepts.
@@ -23,9 +23,6 @@ You can find my LeetCode profile here: [LeetCode Profile](#) (Update with your a
 - **Languages**: Python, C, R
 - **Platforms**: LeetCode, GitHub, StackOverflow
 
-### My LeetCode Stats:
-- Problems Solved:  **[Update regularly with the count]**
-- Language Preference: **Python**
 
 ## Why LeetCode?
 
@@ -36,8 +33,8 @@ LeetCode helps me practice real-world problems and stay consistent in improving 
 Check back here for updates on my journey!
 
 📫 **Connect with me**:
-- LinkedIn: [Your LinkedIn](#) (Update with your actual profile link)
-- GitHub: [Your GitHub](#) (Update with your actual profile link)
+- LinkedIn: [www.linkedin.com/in/pritam-majumder-1a1350221](#) 
+- GitHub: [(https://github.com/pritam1011NP/)](#) 
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
