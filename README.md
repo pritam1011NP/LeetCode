@@ -42,11 +42,13 @@ Check back here for updates on my journey!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pritam1011NP/LeetCode/tree/master/0001-two-sum) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/pritam1011NP/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pritam1011NP/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pritam1011NP/LeetCode/tree/master/0001-two-sum) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/pritam1011NP/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -63,4 +65,8 @@ Check back here for updates on my journey!
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pritam1011NP/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Counting
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/pritam1011NP/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 <!---LeetCode Topics End-->
