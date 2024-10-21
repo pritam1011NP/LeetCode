@@ -53,6 +53,7 @@ Check back here for updates on my journey!
 | [1256-rank-transform-of-an-array](https://github.com/pritam1011NP/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/pritam1011NP/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/pritam1011NP/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/pritam1011NP/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Check back here for updates on my journey!
 ## Backtracking
 |  |
 | ------- |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/pritam1011NP/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pritam1011NP/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
@@ -81,4 +83,8 @@ Check back here for updates on my journey!
 |  |
 | ------- |
 | [1694-make-sum-divisible-by-p](https://github.com/pritam1011NP/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+## String
+|  |
+| ------- |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/pritam1011NP/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 <!---LeetCode Topics End-->
