@@ -50,6 +50,7 @@ Check back here for updates on my journey!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pritam1011NP/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/pritam1011NP/LeetCode/tree/master/0013-roman-to-integer) |
 | [1256-rank-transform-of-an-array](https://github.com/pritam1011NP/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/pritam1011NP/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/pritam1011NP/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -58,6 +59,7 @@ Check back here for updates on my journey!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/pritam1011NP/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/pritam1011NP/LeetCode/tree/master/0013-roman-to-integer) |
 ## Backtracking
 |  |
 | ------- |
@@ -87,5 +89,6 @@ Check back here for updates on my journey!
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/pritam1011NP/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/pritam1011NP/LeetCode/tree/master/0013-roman-to-integer) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/pritam1011NP/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 <!---LeetCode Topics End-->
