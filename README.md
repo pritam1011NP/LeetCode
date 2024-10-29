@@ -94,6 +94,7 @@ Check back here for updates on my journey!
 | [0013-roman-to-integer](https://github.com/pritam1011NP/LeetCode/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/pritam1011NP/LeetCode/tree/master/0344-reverse-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/pritam1011NP/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/pritam1011NP/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Tree
 |  |
 | ------- |
@@ -118,4 +119,9 @@ Check back here for updates on my journey!
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/pritam1011NP/LeetCode/tree/master/0344-reverse-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/pritam1011NP/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/pritam1011NP/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 <!---LeetCode Topics End-->
