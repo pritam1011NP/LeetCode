@@ -1,15 +1,15 @@
 class Solution:
     def appendCharacters(self, s: str, t: str) -> int:
-        # Initialize a pointer for t
-        j = 0
+        # Initialize two pointers, one for s and one for t
+        i, j = 0, 0
         
-        # Loop through each character in s
-        for char in s:
-            # If the character in s matches the current character in t,
-            # move the pointer of t to the next character
-            if j < len(t) and char == t[j]:
+        # Traverse through s and t to find the common subsequence
+        while i < len(s) and j < len(t):
+            # If characters match, move both pointers
+            if s[i] == t[j]:
                 j += 1
+            # Move the pointer in s regardless
+            i += 1
         
-        # The number of characters to append is the remaining length of t
+        # If we have not reached the end of t, then we need to append the remaining characters in t
         return len(t) - j
-        
