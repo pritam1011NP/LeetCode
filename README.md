@@ -92,6 +92,7 @@ Check back here for updates on my journey!
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/pritam1011NP/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/pritam1011NP/LeetCode/tree/master/0013-roman-to-integer) |
+| [0344-reverse-string](https://github.com/pritam1011NP/LeetCode/tree/master/0344-reverse-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/pritam1011NP/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Tree
 |  |
@@ -113,4 +114,8 @@ Check back here for updates on my journey!
 |  |
 | ------- |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pritam1011NP/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/pritam1011NP/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
