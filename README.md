@@ -105,6 +105,7 @@ Check back here for updates on my journey!
 ## Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/pritam1011NP/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/pritam1011NP/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -113,6 +114,7 @@ Check back here for updates on my journey!
 ## Binary Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/pritam1011NP/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/pritam1011NP/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -133,4 +135,12 @@ Check back here for updates on my journey!
 | ------- |
 | [0409-longest-palindrome](https://github.com/pritam1011NP/LeetCode/tree/master/0409-longest-palindrome) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/pritam1011NP/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/pritam1011NP/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/pritam1011NP/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
