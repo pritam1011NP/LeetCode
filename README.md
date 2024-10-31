@@ -42,6 +42,7 @@ Check back here for updates on my journey!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pritam1011NP/LeetCode/tree/master/0001-two-sum) |
+| [1044-find-common-characters](https://github.com/pritam1011NP/LeetCode/tree/master/1044-find-common-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/pritam1011NP/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/pritam1011NP/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/pritam1011NP/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -52,6 +53,7 @@ Check back here for updates on my journey!
 | ------- |
 | [0001-two-sum](https://github.com/pritam1011NP/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/pritam1011NP/LeetCode/tree/master/0013-roman-to-integer) |
+| [1044-find-common-characters](https://github.com/pritam1011NP/LeetCode/tree/master/1044-find-common-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/pritam1011NP/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/pritam1011NP/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/pritam1011NP/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -93,6 +95,7 @@ Check back here for updates on my journey!
 | [0008-string-to-integer-atoi](https://github.com/pritam1011NP/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/pritam1011NP/LeetCode/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/pritam1011NP/LeetCode/tree/master/0344-reverse-string) |
+| [1044-find-common-characters](https://github.com/pritam1011NP/LeetCode/tree/master/1044-find-common-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/pritam1011NP/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/pritam1011NP/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Tree
