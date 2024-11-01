@@ -100,6 +100,7 @@ Check back here for updates on my journey!
 | [0344-reverse-string](https://github.com/pritam1011NP/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/pritam1011NP/LeetCode/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/pritam1011NP/LeetCode/tree/master/1044-find-common-characters) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/pritam1011NP/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/pritam1011NP/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/pritam1011NP/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Tree
