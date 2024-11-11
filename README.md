@@ -64,6 +64,7 @@ Check back here for updates on my journey!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pritam1011NP/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/pritam1011NP/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/pritam1011NP/LeetCode/tree/master/0013-roman-to-integer) |
 ## Backtracking
@@ -147,4 +148,12 @@ Check back here for updates on my journey!
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/pritam1011NP/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/pritam1011NP/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/pritam1011NP/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
