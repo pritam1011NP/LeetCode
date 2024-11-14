@@ -49,6 +49,7 @@ Check back here for updates on my journey!
 | [1694-make-sum-divisible-by-p](https://github.com/pritam1011NP/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/pritam1011NP/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pritam1011NP/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pritam1011NP/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2554-minimum-total-distance-traveled](https://github.com/pritam1011NP/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pritam1011NP/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Hash Table
@@ -161,6 +162,7 @@ Check back here for updates on my journey!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pritam1011NP/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pritam1011NP/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Divide and Conquer
 |  |
 | ------- |
