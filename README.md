@@ -42,6 +42,7 @@ Check back here for updates on my journey!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pritam1011NP/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/pritam1011NP/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1044-find-common-characters](https://github.com/pritam1011NP/LeetCode/tree/master/1044-find-common-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/pritam1011NP/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/pritam1011NP/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -156,4 +157,12 @@ Check back here for updates on my journey!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pritam1011NP/LeetCode/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pritam1011NP/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pritam1011NP/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
