@@ -109,6 +109,7 @@ Check back here for updates on my journey!
 | [1302-delete-characters-to-make-fancy-string](https://github.com/pritam1011NP/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/pritam1011NP/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/pritam1011NP/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/pritam1011NP/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -146,6 +147,7 @@ Check back here for updates on my journey!
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/pritam1011NP/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/pritam1011NP/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -167,4 +169,8 @@ Check back here for updates on my journey!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pritam1011NP/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Simulation
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/pritam1011NP/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
