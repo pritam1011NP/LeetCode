@@ -47,6 +47,7 @@ Check back here for updates on my journey!
 | [1256-rank-transform-of-an-array](https://github.com/pritam1011NP/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/pritam1011NP/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/pritam1011NP/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1755-defuse-the-bomb](https://github.com/pritam1011NP/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1940-maximum-xor-for-each-query](https://github.com/pritam1011NP/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pritam1011NP/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pritam1011NP/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -176,4 +177,8 @@ Check back here for updates on my journey!
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/pritam1011NP/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Sliding Window
+|  |
+| ------- |
+| [1755-defuse-the-bomb](https://github.com/pritam1011NP/LeetCode/tree/master/1755-defuse-the-bomb) |
 <!---LeetCode Topics End-->
