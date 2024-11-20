@@ -66,6 +66,7 @@ Check back here for updates on my journey!
 | [1694-make-sum-divisible-by-p](https://github.com/pritam1011NP/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/pritam1011NP/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pritam1011NP/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/pritam1011NP/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Math
 |  |
 | ------- |
@@ -115,6 +116,7 @@ Check back here for updates on my journey!
 | [1302-delete-characters-to-make-fancy-string](https://github.com/pritam1011NP/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/pritam1011NP/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/pritam1011NP/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/pritam1011NP/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/pritam1011NP/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
@@ -186,4 +188,5 @@ Check back here for updates on my journey!
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/pritam1011NP/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pritam1011NP/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/pritam1011NP/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 <!---LeetCode Topics End-->
