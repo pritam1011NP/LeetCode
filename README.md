@@ -51,6 +51,7 @@ Check back here for updates on my journey!
 | [1940-maximum-xor-for-each-query](https://github.com/pritam1011NP/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pritam1011NP/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pritam1011NP/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/pritam1011NP/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pritam1011NP/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/pritam1011NP/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pritam1011NP/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -141,6 +142,7 @@ Check back here for updates on my journey!
 ## Matrix
 |  |
 | ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/pritam1011NP/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pritam1011NP/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Two Pointers
 |  |
@@ -182,6 +184,7 @@ Check back here for updates on my journey!
 ## Simulation
 |  |
 | ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/pritam1011NP/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/pritam1011NP/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
 |  |
