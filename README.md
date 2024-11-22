@@ -45,6 +45,7 @@ Check back here for updates on my journey!
 | [0004-median-of-two-sorted-arrays](https://github.com/pritam1011NP/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/pritam1011NP/LeetCode/tree/master/0011-container-with-most-water) |
 | [1044-find-common-characters](https://github.com/pritam1011NP/LeetCode/tree/master/1044-find-common-characters) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pritam1011NP/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/pritam1011NP/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/pritam1011NP/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/pritam1011NP/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -63,6 +64,7 @@ Check back here for updates on my journey!
 | [0013-roman-to-integer](https://github.com/pritam1011NP/LeetCode/tree/master/0013-roman-to-integer) |
 | [0409-longest-palindrome](https://github.com/pritam1011NP/LeetCode/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/pritam1011NP/LeetCode/tree/master/1044-find-common-characters) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pritam1011NP/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/pritam1011NP/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/pritam1011NP/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/pritam1011NP/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -143,6 +145,7 @@ Check back here for updates on my journey!
 ## Matrix
 |  |
 | ------- |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pritam1011NP/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/pritam1011NP/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pritam1011NP/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Two Pointers
