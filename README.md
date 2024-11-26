@@ -207,4 +207,8 @@ Check back here for updates on my journey!
 | [1755-defuse-the-bomb](https://github.com/pritam1011NP/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pritam1011NP/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/pritam1011NP/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/pritam1011NP/LeetCode/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
