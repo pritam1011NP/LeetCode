@@ -47,6 +47,7 @@ Check back here for updates on my journey!
 | [1044-find-common-characters](https://github.com/pritam1011NP/LeetCode/tree/master/1044-find-common-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pritam1011NP/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/pritam1011NP/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/pritam1011NP/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/pritam1011NP/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/pritam1011NP/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/pritam1011NP/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -153,6 +154,7 @@ Check back here for updates on my journey!
 |  |
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pritam1011NP/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/pritam1011NP/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2089-maximum-matrix-sum](https://github.com/pritam1011NP/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/pritam1011NP/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pritam1011NP/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
