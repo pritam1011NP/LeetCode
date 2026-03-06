@@ -135,6 +135,7 @@ Check back here for updates on my journey!
 | [1044-find-common-characters](https://github.com/pritam1011NP/LeetCode/tree/master/1044-find-common-characters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/pritam1011NP/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/pritam1011NP/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/pritam1011NP/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/pritam1011NP/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/pritam1011NP/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/pritam1011NP/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
