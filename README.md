@@ -186,6 +186,7 @@ Check back here for updates on my journey!
 | [0409-longest-palindrome](https://github.com/pritam1011NP/LeetCode/tree/master/0409-longest-palindrome) |
 | [2089-maximum-matrix-sum](https://github.com/pritam1011NP/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/pritam1011NP/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pritam1011NP/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Stack
 |  |
 | ------- |
@@ -209,6 +210,7 @@ Check back here for updates on my journey!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pritam1011NP/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pritam1011NP/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pritam1011NP/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -232,4 +234,16 @@ Check back here for updates on my journey!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pritam1011NP/LeetCode/tree/master/0014-longest-common-prefix) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pritam1011NP/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pritam1011NP/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pritam1011NP/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
